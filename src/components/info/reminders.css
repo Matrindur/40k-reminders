@@ -1,0 +1,13 @@
+.Reminders {
+    padding: 40px;
+}
+
+.ReminderEntry {
+    font-size: 1.3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0px;
+    margin-block-end: 0px;
+}
+small {
+    font-size: 12px
+}
